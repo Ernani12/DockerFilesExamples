@@ -1,7 +1,7 @@
 # DockerFilesExamples
 Exemples of docker files in Linux/Windows to use, tools and configuration
 
-1- Create  your Java-App for exmaple (name)
+1- Create  your Java-App for example (name)
 
 2- develop your application with your configurations
 
